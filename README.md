@@ -26,3 +26,10 @@ Welcome to the Hangman Game! This is a simple console-based word-guessing game w
 2. Compile the code using:
    ```bash
    javac Hangman.java
+
+## Contact Me
+
+I hope you enjoy playing "Hangman"! If you’d like to discuss this project or other opportunities, don’t hesitate to reach out.
+
+- **LinkedIn**: [Grace LaBelle](https://www.linkedin.com/in/grace-labelle-027a92268/)
+- **GitHub**: [GraceLab04](https://github.com/GraceLab04)
